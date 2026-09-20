@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     classDef default fill:#f8f9fa,stroke:#ced4da,stroke-width:2px;
     classDef data fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
@@ -39,3 +40,4 @@ graph TD
         E2 --> E3[开发功能型分子标记]:::out
         E3 --> E4(((育种群体田间验证))):::out
     end
+```
