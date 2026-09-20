@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-    %% BioRender 风格全局与节点类定义
+    %% 全局与节点类定义 (学术配色与圆角)
     classDef default fill:#f8f9fa,stroke:#ced4da,stroke-width:2px,rx:12px,ry:12px,color:#343a40;
     classDef data_node fill:#e3f2fd,stroke:#64b5f6,stroke-width:2px,rx:12px,ry:12px,color:#1565c0,font-weight:bold;
     classDef compute_node fill:#f3e5f5,stroke:#ba68c8,stroke-width:2px,rx:12px,ry:12px,color:#6a1b9a,font-weight:bold;
